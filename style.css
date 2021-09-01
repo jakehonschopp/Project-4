@@ -1,0 +1,39 @@
+
+
+
+.header {
+  background-image: url(https://www.gannett-cdn.com/presto/2019/09/05/PLOU/eb65d7c6-22d9-457c-b5ef-7cd5f489bd62-dunkbird1.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp);
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+}
+
+.header-content {
+  color: floralwhite;
+  text-align: center;
+  font-size: 28px;
+  padding: 36%;
+}
+
+.intro {
+  background-color: red;
+  text-align: center;
+  padding: 7% 0 7% 0;
+}
+
+
+.pic-and-words {
+  display: flex;
+}
+
+
+.championship-dunk {
+  height: 60%;
+
+}
+
+h2 {
+ padding: 20% 0 0 5%; 
+}
