@@ -24,16 +24,31 @@
 }
 
 
+.champ-dunk {
+  padding: 3% 0 3% 0;
+}
+
 .pic-and-words {
   display: flex;
 }
 
 
-.championship-dunk {
-  height: 60%;
-
-}
 
 h2 {
  padding: 20% 0 0 5%; 
 }
+
+.second-pics-and-words {
+ padding: 5%;
+}
+
+.content-2 {
+  background-color: black;
+  color: white;
+  padding: 3% 0 3% 0;
+}
+
+.shorts {
+  display: flex;
+}
+
