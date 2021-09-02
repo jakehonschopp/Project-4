@@ -48,7 +48,22 @@ h2 {
   padding: 3% 0 3% 0;
 }
 
-.shorts {
-  display: flex;
+
+.promo {
+  background-image: url(https://www.si.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTY4MDA2OTUyNzM5NDgwOTYw/louisville-new-basketball-court-design-retrojpg.jpg);
+  background-size: cover;
+  height: 300px;
 }
 
+
+h5 {
+  color: floralwhite;
+  text-align: center;
+  font-size: 46px;
+}
+
+.content-3 {
+  text-align: center;
+  padding: 7% 0 7% 0;
+
+}
