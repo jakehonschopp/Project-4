@@ -1,5 +1,11 @@
 
+.navbar {
+  padding: 0 20% 0 20%;
+}
 
+.navbar-inner {
+  background: transparent;
+}
 
 .header {
   background-image: url(https://www.gannett-cdn.com/presto/2019/09/05/PLOU/eb65d7c6-22d9-457c-b5ef-7cd5f489bd62-dunkbird1.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp);
@@ -67,3 +73,15 @@ h5 {
   padding: 7% 0 7% 0;
 
 }
+
+.bottom-part {
+  text-align: center;
+  background-color: yellow;
+  padding: 3% 0 3% 0;
+}
+
+.small-print {
+  text-align: center;
+  padding: 3% 0 3% 0;
+}
+
