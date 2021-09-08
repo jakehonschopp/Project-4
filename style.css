@@ -19,8 +19,12 @@
 .header-content {
   color: floralwhite;
   text-align: center;
-  font-size: 28px;
-  padding: 36%;
+  font-size: 21px;
+  padding: 16%;
+}
+
+h1 {
+  font-size: 70px;
 }
 
 .intro {
@@ -66,6 +70,7 @@ h5 {
   color: floralwhite;
   text-align: center;
   font-size: 46px;
+  padding: 15% 0;
 }
 
 .content-3 {
@@ -85,3 +90,11 @@ h5 {
   padding: 3% 0 3% 0;
 }
 
+@media only screen and (max-width: 375px) {
+  h1 {
+    font-size: 38px;
+  }
+
+  h5 {
+    padding: 31% 10%;
+  }
